@@ -6,8 +6,8 @@ const organizationName = "felixeriksson";
 const projectName = "coltiva-user-docs";
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'coltiva!',
+  tagline: 'User manual',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -69,7 +69,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'Coltiva User Manual',
       logo: {
         alt: 'Coltiva Logo',
         src: 'img/logo-leaf.svg',
@@ -96,7 +96,7 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Getting started',
               to: '/docs/intro',
             },
           ],
@@ -132,7 +132,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Eflix AB.`,
     },
     prism: {
       theme: prismThemes.github,
