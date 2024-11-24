@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1088"
+   height="687.962"
+   viewBox="0 0 1088 687.962"
+   version="1.1"
+   id="svg162"
+   sodipodi:docname="grow-on-autopilot.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata168">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs166">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect977"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect948"
+       is_visible="true"
+       lpeversion="1" />
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path1543" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutL"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path1537" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1398" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     id="namedview164"
+     showgrid="false"
+     inkscape:zoom="2"
+     inkscape:cx="350.55857"
+     inkscape:cy="318.36457"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg162"
+     inkscape:document-rotation="0" />
+  <title
+     id="title2">Easy to Use</title>
+  <rect
+     style="opacity:0;fill:none;stroke:#000000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+     id="rect833"
+     width="71.811028"
+     height="52.913387"
+     x="101.74984"
+     y="15.362654"
+     ry="5.7142901" />
+  <g
+     id="g1059"
+     transform="matrix(1.3938231,0,0,1.3938231,-224.69344,-10.05008)">
+    <polygon
+       style="fill:#ffffff"
+       points="225.325,315.767 225.325,483.113 257.2,483.113 310.751,315.767 440.485,315.767 472.36,275.922 424.547,228.109 320.952,228.109 257.2,28.887 225.325,28.887 225.325,228.109 97.822,228.109 42.04,132.482 10.164,132.482 10.164,259.985 73.916,315.767 "
+       id="polygon2"
+       transform="translate(295.5,-2)" />
+    <rect
+       x="528.99799"
+       y="289.85901"
+       style="fill:#59ca3c;fill-opacity:1"
+       width="15.527"
+       height="183.283"
+       id="rect4" />
+    <rect
+       x="528.99799"
+       y="34.855011"
+       style="fill:#59ca3c;fill-opacity:1"
+       width="15.527"
+       height="183.283"
+       id="rect6" />
+    <polygon
+       style="fill:#e30613"
+       points="97.822,339.673 73.916,315.767 225.325,315.767 225.33,339.673 "
+       id="polygon10"
+       transform="translate(295.5,-2)" />
+    <polygon
+       style="fill:#325928;fill-opacity:1"
+       points="504.236,323.735 480.33,339.673 297.045,339.673 305.014,315.767 440.485,315.767 472.36,275.922 496.267,283.891 504.236,307.798 "
+       id="polygon12"
+       transform="translate(295.5,-2)" />
+    <polygon
+       style="fill:#e30613"
+       points="65.947,116.544 57.977,148.42 73.916,188.265 89.854,116.544 "
+       id="polygon14"
+       transform="translate(295.5,-2)" />
+    <polygon
+       style="fill:#e30613"
+       points="34.071,228.109 10.164,315.767 34.071,315.767 65.947,228.109 "
+       id="polygon16"
+       transform="translate(295.5,-2)" />
+    <rect
+       x="401.29199"
+       y="258.19397"
+       style="fill:#1d1d1b"
+       width="15.938"
+       height="15.527"
+       id="rect20" />
+    <rect
+       x="433.164"
+       y="258.19397"
+       style="fill:#1d1d1b"
+       width="15.937"
+       height="15.527"
+       id="rect22" />
+    <rect
+       x="465.04602"
+       y="258.19397"
+       style="fill:#1d1d1b"
+       width="15.937"
+       height="15.527"
+       id="rect24" />
+    <rect
+       x="496.918"
+       y="258.19397"
+       style="fill:#1d1d1b"
+       width="15.937"
+       height="15.527"
+       id="rect26" />
+    <rect
+       x="528.78998"
+       y="258.19397"
+       style="fill:#1d1d1b"
+       width="15.937"
+       height="15.527"
+       id="rect28" />
+    <rect
+       x="560.67297"
+       y="258.19397"
+       style="fill:#1d1d1b"
+       width="15.938"
+       height="15.527"
+       id="rect30" />
+    <rect
+       x="592.54504"
+       y="258.19397"
+       style="fill:#1d1d1b"
+       width="15.937"
+       height="15.527"
+       id="rect32" />
+    <rect
+       x="624.41699"
+       y="258.19397"
+       style="fill:#1d1d1b"
+       width="15.937"
+       height="15.527"
+       id="rect34" />
+    <rect
+       x="656.29999"
+       y="258.19397"
+       style="fill:#1d1d1b"
+       width="15.937"
+       height="15.527"
+       id="rect36" />
+    <polygon
+       style="fill:#1d1d1b"
+       points="217.561,21.123 217.561,212.171 233.089,212.171 233.089,116.339 249.232,116.339 249.232,100.812 233.089,100.812 233.089,84.464 249.232,84.464 249.232,68.936 233.089,68.936 233.089,36.65 251.448,36.65 305.556,214.431 320.409,209.911 262.952,21.123 "
+       id="polygon38"
+       transform="translate(295.5,-2)" />
+    <path
+       style="fill:#1d1d1b"
+       d="m 771.216,266.299 -36.368,-36.368 c -7.472,-7.472 -17.406,-11.586 -27.972,-11.586 H 397.782 l -17.913,-30.707 0.083,0.016 14.704,-80.873 h -39.139 l -7.269,26.652 -6.25,-10.714 H 297.9 v 138.7 l 11.213,10.193 -13.613,49.918 h 39.508 l 7.209,-19.824 48.103,43.731 h 122.74 v 143.44 h 45.391 l 43.656,-143.44 h 169.379 c 19.858,0 36.014,-16.155 36.014,-36.013 v -3.626 c 0,-20.728 -15.99,-37.79 -36.284,-39.499 z M 367.377,122.307 h 8.675 l -8.149,44.817 -8.687,-14.893 z m -51.548,183.696 19.672,-72.131 h 14.862 l -26.23,72.131 z m 80.494,23.907 -9.218,-8.379 H 513.06 v 8.379 z m 150.625,143.44 h -18.359 v -32.286 h 16.143 v -15.527 h -16.143 v -16.348 h 16.143 V 393.662 H 528.589 V 289.86 h -15.527 v 16.143 H 370.026 l -22.074,-20.067 24.58,-67.591 h -48.89 l -9.942,36.452 -0.271,-0.247 V 138.245 h 19.652 l 55.783,95.627 h 318.013 c 6.419,0 12.454,2.5 16.993,7.039 l 17.279,17.279 h -29.071 v 15.527 h 44.598 l 0.782,0.782 -25.204,31.505 H 614.109 l 1.8,-5.914 -14.854,-4.52 z M 791.973,309.424 c 0,11.295 -9.19,20.486 -20.487,20.486 H 606.833 l 2.551,-8.379 h 130.332 l 31.667,-39.585 c 11.632,1.71 20.589,11.753 20.589,23.852 v 3.627 h 10e-4 z"
+       id="path40" />
+    <path
+       style="fill:#325928;fill-opacity:1;stroke:#000000;stroke-width:1.5;paint-order:markers stroke fill"
+       d="m 392.05857,325.77017 -4.25,-3.96672 62.625,-0.0217 62.625,-0.0217 v 4 4 l -58.375,-0.0115 -58.375,-0.0115 z"
+       id="path1030" />
+    <path
+       style="fill:#325928;fill-opacity:1;stroke:#000000;stroke-width:1.5;paint-order:markers stroke fill"
+       d="m 364.96243,161.73891 c -1.52727,-2.60093 -3.39601,-5.85396 -4.15278,-7.22896 l -1.37593,-2.5 3.34926,-12.25 c 1.8421,-6.7375 3.68615,-13.43125 4.09791,-14.875 l 0.74864,-2.625 h 3.96452 c 3.46798,0 3.96452,0.11148 3.96452,0.89008 0,0.80186 -7.32433,41.69104 -7.67358,42.83888 -0.0801,0.26342 -1.3953,-1.64908 -2.92256,-4.25 z"
+       id="path1032" />
+    <path
+       style="fill:#325928;fill-opacity:1;stroke:#000000;stroke-width:1.5;paint-order:markers stroke fill"
+       d="m 316.31013,304.75503 c 0.17542,-0.55271 4.55782,-16.54494 9.73865,-35.53829 5.18084,-18.99336 9.52134,-34.63501 9.64557,-34.75923 0.12422,-0.12422 3.37739,-0.16324 7.22927,-0.0867 l 7.00341,0.13915 -12.17545,33.5 c -6.6965,18.425 -12.53551,34.45625 -12.97559,35.625 l -0.80013,2.125 h -3.99234 c -3.77132,0 -3.97468,-0.0556 -3.67339,-1.00492 z"
+       id="path1034" />
+  </g>
+</svg>

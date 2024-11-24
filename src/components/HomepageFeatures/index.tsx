@@ -10,32 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Grow more with the same effort',
+    Svg: require('@site/static/img/grow-more-plants.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Coltiva was designed to make hydroponic growing less time-consuming, and to give you more results for each minute invested.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Treat your plants like queens',
+    Svg: require('@site/static/img/treat-your-plants-like-queens.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Keep pH, EC and water level in the optimal range for your plants at all times.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Grow on autopilot',
+    Svg: require('@site/static/img/grow-on-autopilot.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Let your plants thrive without requiring constant attention from you. Concentrate your efforts to when they're actually needed.
       </>
     ),
   },
