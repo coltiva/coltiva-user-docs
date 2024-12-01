@@ -1,6 +1,6 @@
-# Website
+# Manual for Coltiva devices
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator. The website is hosted on Github Pages: https://felixeriksson.github.io/coltiva-user-docs/
+The manual website is built using [Docusaurus](https://docusaurus.io/), a static website generator. The website is hosted on Github Pages: https://coltiva.github.io/coltiva-user-docs/
 
 ### Installation
 
@@ -16,4 +16,4 @@ This command starts a local development server and opens up a browser window. Mo
 
 ### Deployment
 
-Any changes pushed to `master` are built and deployed to Github Pages using [Github Actions](https://github.com/felixeriksson/coltiva-user-docs/actions).
+Any changes pushed to `master` are built and deployed to Github Pages using [Github Actions](https://github.com/coltiva/coltiva-user-docs/actions).
