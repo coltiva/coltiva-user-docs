@@ -2,13 +2,15 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Getting started
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's setup your Coltiva device.
 
-## Getting Started
+1. **Water level sensor mounting (don't fill up your reservoir before reading this!)**
 
-Get started by **creating a new site**.
+The water level sensor must be mounted to the bottom of the reservoir.
+
+The sensor uses ultrasonic waves to measure the level. The waves travel through the container bottom and the liquid to the surface, where they are reflected and travel back to the sensor.
 
 Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
