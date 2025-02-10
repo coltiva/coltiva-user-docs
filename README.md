@@ -6,6 +6,8 @@ The manual website is built using [Docusaurus](https://docusaurus.io/), a static
 
 Install Node.js on your computer to do local development. For example, using a pre-built installer: https://nodejs.org/en/download/prebuilt-installer   
 
+Then run `npm install`
+
 ### Local Development
 
 ```
