@@ -4,6 +4,9 @@ custom_edit_url: null
 ---
 
 # Getting started
+Read the entire manual carefully before installing or using the device.
+
+## Installation
 
 Let's setup your Coltiva device.
 
