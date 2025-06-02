@@ -19,8 +19,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/getting-started">
-            Getting Started with Coltiva
+            to="/docs/overview">
+            Get started
           </Link>
         </div>
       </div>
