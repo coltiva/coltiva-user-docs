@@ -3,7 +3,7 @@ sidebar_position: 1
 custom_edit_url: null
 ---
 
-# Getting started
+# Set up reservoir
 Read the entire manual carefully before installing or using the device.
 
 ## Installation
