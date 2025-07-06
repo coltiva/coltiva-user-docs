@@ -21,3 +21,7 @@ custom_edit_url: null
 | Pump type        | Flow rate | Dosing accuracy | Dosing range | Head |
 | ---------------- | --------- | --------------- | ------------ | ---- |
 | **Brushless DC** | 4 L/min   | +-10 %          | > 0.5 L      | 3 m  |
+
+## Power supply
+
+12 V DC with positive center pin. Maximum current supply capacity must be 1 +- 0.05 A.
