@@ -1,0 +1,21 @@
+---
+sidebar_position: 2
+custom_edit_url: null
+---
+
+import WaterLevelSensorMountStraight from '@site/static/img/water-level-sensor-mount-straight.svg';
+import styles from '@site/src/css/instruction.module.css';
+
+
+# Water level sensor
+
+## Mounting
+The water level sensor must be mounted to the bottom of the reservoir or tank.
+
+The sensor uses ultrasonic waves to measure the level. The waves travel through the reservoir bottom and the liquid to the surface, where they are reflected and travel back to the sensor.
+
+The sensor must be mounted under the reservoir. Please note that the container must be supported in a way so that there is space for the sensor, and so that the sensor is straight. If the container bulges downwards when it is filled, place the sensor in middle between two supports. If the bulging is excessive, you may need to add another support.
+
+<WaterLevelSensorMountStraight className={styles.instructionSvg} />
+
+The sensor must be mounted using cyanoacrylate glue (instant glue) or epoxy glue. Prepare the bottom of your tank, and the sensors, by cleaning the surfaces that will be glued with ethyl alcohol or isopropyl alcohol.
