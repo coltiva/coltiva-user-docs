@@ -3,11 +3,16 @@ sidebar_position: 1
 custom_edit_url: null
 ---
 
+import sensorPlatform from '@site/static/img/sensor-platform.jpg';
+import styles from '@site/src/css/instruction.module.css';
+
 # pH
 
 ## Mounting
 
 The pH sensor can be mounted using the sensor platform.
+
+<img src={sensorPlatform} alt="Sensor platform" className={styles.instructionSvg} />
 
 ## Cleaning
 pH sensor cleaning must be done with care. Normally, rinsing it with a commercial pH probe storage/cleaning solution, or pH 4 buffer, is enough. If the electrode is not sufficiently cleaned this way, let it soak for an extended period of time in the cleaning solution.
