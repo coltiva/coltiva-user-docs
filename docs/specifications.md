@@ -5,14 +5,6 @@ custom_edit_url: null
 
 # Specifications
 
-## Environmental protection
-
-| Component               | Rating                                                                                                             |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| **Control unit**        | Not protected against water ingress. Must not be mounted in direct sunlight. 0 - 50 °C, below 85 %RH.              |
-| **Submersible sensors** | pH, EC, water level and water temperature sensors are intended for continuous submersion in the measured solution. |
-| **Centrifugal pumps**   | Intended for continuous submersion in the pumped solution.                                                         |
-| **Peristaltic pumps**   | Not protected against water ingress. Must not be mounted in direct sunlight. 0 - 45 °C, below 85 %RH.              |
 
 ## Sensors
 
@@ -31,6 +23,16 @@ custom_edit_url: null
 | --------------- | ---------- | --------------- | ------------ | ---- |
 | **Peristaltic** | 100 ml/min | TBA             | > 5 ml       | 3 m  |
 | **Centrifugal** | 4 l/min    | +-10 %          | > 0.5 L      | 3 m  |
+
+## Environmental protection
+
+| Component               | Rating                                                                                                             |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **Control unit**        | Not protected against water ingress. Must not be mounted in direct sunlight. 0 - 50 °C, below 85 %RH.              |
+| **Submersible sensors** | pH, EC, water level and water temperature sensors are intended for continuous submersion in the measured solution. |
+| **Centrifugal pumps**   | Intended for continuous submersion in the pumped solution.                                                         |
+| **Peristaltic pumps**   | Not protected against water ingress. Must not be mounted in direct sunlight. 0 - 45 °C, below 85 %RH.              |
+
 
 ## Power supply
 
