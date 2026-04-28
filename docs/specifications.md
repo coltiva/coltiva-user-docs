@@ -5,6 +5,15 @@ custom_edit_url: null
 
 # Specifications
 
+## Environmental protection
+
+| Component               | Rating                                                                                                             |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **Control unit**        | Indoor use only, not in direct sunlight. 0 - 50 °C, up to 85 %RH. Not protected against water ingress.             |
+| **Submersible sensors** | pH, EC, water level and water temperature sensors are suitable for continuous submersion in the measured solution. |
+| **Centrifugal pumps**   | Suitable for continuous submersion in the pumped solution.                                                         |
+| **Peristaltic pumps**   | 0 - 45 °C, below 85 %RH. Not protected against water ingress.                                                      |
+
 ## Sensors
 
 | Sensor                | Measurement range | Accuracy     |
@@ -18,10 +27,10 @@ custom_edit_url: null
 
 ## Pumps
 
-| Pump type        | Flow rate  | Dosing accuracy | Dosing range | Head |
-| ---------------- | ---------- | --------------- | ------------ | ---- |
-| **Peristaltic**  | 100 ml/min | TBA             | > 5 ml       | 3 m  |
-| **Brushless DC** | 4 l/min    | +-10 %          | > 0.5 L      | 3 m  |
+| Pump type       | Flow rate  | Dosing accuracy | Dosing range | Head |
+| --------------- | ---------- | --------------- | ------------ | ---- |
+| **Peristaltic** | 100 ml/min | TBA             | > 5 ml       | 3 m  |
+| **Centrifugal** | 4 l/min    | +-10 %          | > 0.5 L      | 3 m  |
 
 ## Power supply
 
