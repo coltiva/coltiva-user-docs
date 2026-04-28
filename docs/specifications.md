@@ -9,10 +9,10 @@ custom_edit_url: null
 
 | Component               | Rating                                                                                                             |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| **Control unit**        | Indoor use only, not in direct sunlight. 0 - 50 °C, up to 85 %RH. Not protected against water ingress.             |
-| **Submersible sensors** | pH, EC, water level and water temperature sensors are suitable for continuous submersion in the measured solution. |
-| **Centrifugal pumps**   | Suitable for continuous submersion in the pumped solution.                                                         |
-| **Peristaltic pumps**   | 0 - 45 °C, below 85 %RH. Not protected against water ingress.                                                      |
+| **Control unit**        | Not protected against water ingress. Must not be mounted in direct sunlight. 0 - 50 °C, below 85 %RH.              |
+| **Submersible sensors** | pH, EC, water level and water temperature sensors are intended for continuous submersion in the measured solution. |
+| **Centrifugal pumps**   | Intended for continuous submersion in the pumped solution.                                                         |
+| **Peristaltic pumps**   | Not protected against water ingress. Must not be mounted in direct sunlight. 0 - 45 °C, below 85 %RH.              |
 
 ## Sensors
 
