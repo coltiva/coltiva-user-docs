@@ -18,9 +18,10 @@ custom_edit_url: null
 
 ## Pumps
 
-| Pump type        | Flow rate | Dosing accuracy | Dosing range | Head |
-| ---------------- | --------- | --------------- | ------------ | ---- |
-| **Brushless DC** | 4 L/min   | +-10 %          | > 0.5 L      | 3 m  |
+| Pump type        | Flow rate  | Dosing accuracy | Dosing range | Head |
+| ---------------- | ---------- | --------------- | ------------ | ---- |
+| **Peristaltic**  | 100 ml/min | TBA             | > 5 ml       | 3 m  |
+| **Brushless DC** | 4 l/min    | +-10 %          | > 0.5 L      | 3 m  |
 
 ## Power supply
 
