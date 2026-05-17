@@ -14,6 +14,11 @@ The pH sensor can be mounted using the sensor platform.
 
 <img src={sensorPlatform} alt="Sensor platform" className={styles.instructionSvg} />
 
+## ESD protection of the BNC connector
+The pH sensor connects to the device through a BNC connector. The input circuit behind the center pin of this connector is sensitive to electrostatic discharge (ESD) and may be permanently damaged by an ESD strike.
+
+**Do not** touch the center pin of the BNC connector unless you have taken appropriate ESD precautions, such as wearing a properly grounded ESD wrist strap or first discharging yourself by touching a grounded metal surface.
+
 ## Cleaning
 pH sensor cleaning must be done with care. Normally, rinsing it with a commercial pH probe storage/cleaning solution, or pH 4 buffer, is enough. If the electrode is not sufficiently cleaned this way, let it soak for an extended period of time in the cleaning solution.
 
