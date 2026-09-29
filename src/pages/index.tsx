@@ -33,7 +33,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="User manual for the Coltiva hydroponic monitoring and dosing system">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

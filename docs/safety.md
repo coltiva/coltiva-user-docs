@@ -4,32 +4,27 @@ custom_edit_url: null
 ---
 
 # Safety
-Read this entire manual carefully before installing, operating, or servicing the device.
 
-Only qualified personnel should install or service this device, in accordance with all applicable local and national electrical codes.
+Read this page before installing or using the device, and keep the manual for later reference.
 
-Disconnect all power sources before connecting, disconnecting, or servicing the device.
+### Electrical
 
-Use only power supplies and voltage levels as specified in the technical documentation. Improper voltage can result in fire, electric shock, or permanent damage.
+- Use only the supplied power supply, or one that meets the [power supply specification](./specifications.md#power-supply) exactly. The wrong voltage can cause fire, electric shock or permanent damage.
+- Disconnect the power before connecting, disconnecting or servicing the device, sensors or pumps.
+- Only qualified persons may install or service the device, in accordance with local and national electrical codes.
 
-Do not use the device if it shows signs of damage, has been dropped, or functions abnormally.
+### Water and environment
 
-Regularly inspect the device, sensors, pumps and cabling for signs of wear or damage. If wear or damage is found, discontinue use and contact the reseller for information how to repair or replace your device.
+- The control unit and the peristaltic pumps are not protected against water. Mount them where they stay dry, out of direct sunlight and within the limits in [Environmental protection](./specifications.md#environmental-protection). Only the sensors and the centrifugal pumps may be submerged.
+- Do not use the device in explosive atmospheres or corrosive environments.
 
-Do not expose the device to water, moisture, or corrosive environments unless it is explicitly rated for such use (e.g., IP-rated enclosures).
+### Handling
 
-Protect all connectors and cables from mechanical stress, moisture, and accidental disconnection.
-
-Do not open, modify, or disassemble the device. Doing so voids the warranty and may violate CE/UL compliance.
-
-Do not operate the device in the presence of explosive atmospheres.
-
-Comply with all relevant safety standards and regulatory requirements when integrating the device into a larger system.
-
-Use only manufacturer-approved accessories and replacement parts.
-
-Handle the device in accordance with ESD (electrostatic discharge) precautions. This is especially important for the pH sensor contact.
-
-Keep the device out of reach of children and untrained individuals.
-
-Regularly inspect the device and cabling for signs of wear or damage, and replace components as needed.
+- Do not open, modify or disassemble the device. Doing so voids the warranty and may violate CE/UL compliance.
+- Do not use a device that shows signs of damage, has been dropped or behaves abnormally. Contact your reseller.
+- Inspect the device, sensors, pumps and cables regularly. Stop using worn or damaged parts and have them repaired or replaced.
+- Protect connectors and cables from mechanical stress, moisture and accidental disconnection.
+- The pH sensor's connector is sensitive to static electricity. Discharge yourself before touching it.
+- Use only manufacturer-approved accessories and spare parts.
+- Keep the device out of reach of children and untrained persons.
+- Comply with all applicable safety standards and regulations when integrating the device into a larger system.
