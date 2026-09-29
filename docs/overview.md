@@ -7,6 +7,6 @@ custom_edit_url: null
 Read the entire manual carefully before installing or using the device.
 
 ## App
-The Coltiva app lets you look at recent sensor values, and control pumps.
+The Coltiva app shows your sensor readings, runs and calibrates the pumps, and lets you set up [automation](./automation/how-it-works.md) that holds pH, EC and water level for you.
 
 Download the app from [Play Store](https://play.google.com/store/apps/details?id=eu.coltiva.coltivaapp).
