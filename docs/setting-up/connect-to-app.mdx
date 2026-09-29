@@ -1,23 +1,35 @@
 ---
 sidebar_position: 3
+sidebar_label: 3. Connect to the app
 custom_edit_url: null
 ---
 
-# Connect Coltiva to Wi-Fi (provisioning)
+# Connect the device to the app
 
-## Overview
+The Coltiva device talks to the app through the cloud, over your Wi-Fi. Connecting it takes a few minutes and is done entirely from your phone.
 
-When the device is started the first time, you must provide the device with your Wi-Fi network's name (SSID) and password.
+## What you need
 
-Before the device has been configured to connect to your Wi-Fi network, it will turn itself into a Wi-Fi access point. This is so you can connect your phone directly to the Coltiva device, and transfer your Wi-Fi network's name and password.
+- The Coltiva app, from [Google Play](https://play.google.com/store/apps/details?id=eu.coltiva.coltivaapp).
+- A **2.4 GHz** Wi-Fi network and its password. The device cannot join 5 GHz networks.
+- The QR code on the device.
+- The device powered on, within good Wi-Fi range of your router.
 
-## Detailed instructions
+## Steps
 
-1. Open the Coltiva app on your phone.
-2. Sign up, or log in if you already have an account.
-3. If your account is configured, you will see a button _Connect Coltiva device to Wi-Fi_. Click the button.
-4. Follow the instructions on the screen. You will need to temporarily leave the app and use Wi-Fi on your phone to connect to the device (Wi-Fi name **COLTIVA_XXX**).
+1. **Create an account** in the app, or log in.
+2. Tap **Set up a new Coltiva device**. If this is your first device, the app first asks you to name your *group*: the shared account for everyone who looks after the same grow systems. Name it after your grow room or company. Later devices are added with **Set up or reconfigure a device** at the bottom of the main screen.
+3. **Check that the device is in setup mode.** The illuminated logo is bright, with a clear dark pause every few seconds. A steady glow means the device is already set up. See [Reset the device](../troubleshooting/reset-the-device.md) to put it back into setup mode.
+4. Tap **Scan QR code** and point the camera at the QR code on the device.
+5. The app connects your phone directly to the device, which then looks for Wi-Fi networks. **Choose your network**, enter its password and tap **Provision**.
+6. Wait while the device joins your Wi-Fi and is linked to your account. The app confirms with *Done! Your Coltiva joined …*.
 
-## Reconfigure Wi-Fi (connect to a new network)
+The device starts measuring right away. Open your grow system: the first readings usually appear within 30 seconds. If not, pull down to refresh.
 
-If you need to connect to a new Wi-Fi network, or if your network has changed name or password, you must first reset the Coltiva device so that you can provision it again. Do this by holding the "factory reset" button for approximately 3 seconds, until the indicator light flashes quickly a few times. Then, proceed with provisioning according to the instructions above. **Do not hold the factory reset button longer than needed. This will cause the device to fully reset to factory settings, losing software updates and sensor calibration.**
+## If the password was not accepted
+
+The app tells you, and the logo shows a short flash once a second for about 10 seconds before it returns to the setup-mode pattern. Tap **Try again** and enter the password once more. No reset is needed.
+
+## Changing to a new Wi-Fi network
+
+The device never goes back into setup mode on its own. To move it to another network, or after your network's name or password has changed, [reset the device](../troubleshooting/reset-the-device.md) and connect it again. Your calibrations and automations are kept.
