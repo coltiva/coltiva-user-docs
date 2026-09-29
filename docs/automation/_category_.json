@@ -1,6 +1,6 @@
 {
   "label": "Automation",
-  "position": 6.5,
+  "position": 5,
   "link": {
     "type": "generated-index",
     "description": "Let Coltiva hold pH, EC and water level for you."
