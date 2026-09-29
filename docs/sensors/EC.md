@@ -14,4 +14,10 @@ Clean the sensor with a mild detergent, or isopropyl alcohol based disinfectant.
 
 ## Calibration
 
-More information coming soon.
+You need a **1.413 mS/cm** conductivity standard solution.
+
+1. In the app, open your grow system and tap **Calibrate EC sensor**.
+2. Dry the probe thoroughly, hold it in the air and tap **Take zero-point reading**.
+3. Put the EC probe and the water temperature sensor in the standard solution and tap **Take 1.413 mS/cm reading**.
+
+The app confirms with *Calibration completed*.

@@ -25,9 +25,13 @@ pH sensor cleaning must be done with care. Normally, rinsing it with a commercia
 **Avoid** touching the glass electrode of the sensor with any object. Soft objects like cloths and cotton swabs risk transferring static charges to the pH electrode, which will degrade its performance. Other parts of the sensor may be cleaned with a soft cloth. If you do touch the electrode, leave the sensor in storage/cleaning solution, or pH 4 buffer, for at least 24 hours before calibration to dissipate any static charges.
 
 ## Calibration
-Frequent calibration of the pH sensor ensure that the measurement values accurately reflect the nutrient solution's acidity. We recommend calibrating your sensor at least every 3 months, or whenever you replace the pH probe.
+Calibrate at least every 3 months, and whenever you replace the probe, so that the readings stay accurate. You need **pH 4 and pH 7 buffer solutions**.
 
-For calibration, **buffer solutions of pH 4 and 7** must be used. For best results, rinse the electrode with deionized or distilled water before immersing it in buffer solution.
+1. In the app, open your grow system and tap **Calibrate pH sensor**.
+2. Rinse the probe with distilled or deionised water, put it in one of the buffers and stir gently for 30 seconds.
+3. Tap the button for that buffer, **Take pH 4 reading** or **Take pH 7 reading**, and leave the probe still in the solution until the app confirms the reading.
+4. Rinse the probe and repeat with the other buffer.
 
-Use the Coltiva app to calibrate your pH sensor.
+The app then saves the calibration and reports the **probe health** as a percentage of a new probe. Above 90 % the probe is fine. Between 80 and 90 % it is ageing, so plan to replace it. Below 80 % it is worn: replace it, or clean it and calibrate again with fresh buffers.
 
+If you have touched the glass electrode, leave the probe in storage solution or pH 4 buffer for 24 hours before calibrating.
