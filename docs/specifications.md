@@ -34,6 +34,10 @@ custom_edit_url: null
 | **Peristaltic pumps**   | Not protected against water ingress. Must not be mounted in direct sunlight. 0 - 45 °C, below 85 %RH.              |
 
 
+## Connectivity
+
+Wi-Fi, 2.4 GHz only. The device does not join 5 GHz networks.
+
 ## Power supply
 
 12 V DC with positive center pin. Maximum current supply capacity must be 1 +- 0.05 A.
