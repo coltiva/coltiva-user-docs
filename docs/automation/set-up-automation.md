@@ -86,9 +86,9 @@ A refill is only as safe as the water level sensor. If the sensor comes loose or
 
 ## Advanced settings
 
-The recommended values suit most setups. If you do change them:
+The recommended values are intended to suit a typical setup, but the conditions differ, so see them as a starting point. If you do change them:
 
-- **Wait between rounds** (pH and EC: 24 min; Water Level: 5 min). Time for a dose to mix before the next reading. A shorter wait risks dosing again against a correction that is already under way. It cannot be shorter than 4 minutes, the age at which a reading stops being trusted.
-- **Verify before dosing** (pH and EC: 20 min; Water Level: 10 min). How long the value must stay out of range before a correction starts at all.
+- **Wait between rounds** (pH and EC: 24 min; Water Level: 5 min). Time for a dose to mix before the next reading. A shorter wait risks dosing again before the last dose has properly mixed with the solution. It cannot be shorter than 4 minutes. **We do not recommend lowering this below the default. If you do, verify carefully that the system does not overcorrect and behaves as desired.**
+- **Verify before dosing** (pH and EC: 20 min; Water Level: 10 min). How long the value must stay out of range before a correction starts at all. Protects against unwanted corrections due to temporary variations in sensor readings.
 - **Deadband** (pH and EC, under *Target band, Advanced*). A correction continues until the value is this far back inside the band, so that it does not hover on the edge. Default 0.2.
-- **Check the water level first** (pH and EC, under *Water level limit, Advanced*). Turn this off only if you have no water level sensor. You must then keep the probes under water at all times: a probe reading air can trigger unwanted dosing.
+- **Check the water level first** (pH and EC, under *Water level limit, Advanced*). Turn this off only if you have no water level sensor. **You must then keep the probes under water at all times: a probe reading in air can trigger unwanted dosing.**
