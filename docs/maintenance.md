@@ -12,6 +12,7 @@ custom_edit_url: null
 | **After changing a pump's tubing** | Recalibrate that pump. See [Calibrating a pump](./pumps.mdx#calibrating-a-pump). |
 | **Regularly** | Inspect pumps, tubing and cables for wear, kinks and leaks. Check that hose ends still sit where they should, so nothing can siphon. |
 | **Before a supply bottle runs dry** | Top it up. An empty bottle is the most common reason for an automation to stop with *Needs attention*. |
+| **When the system goes out of use** for more than a few days | Flush and dry the pumps and hoses, and put the pH probe in storage solution. See [Taking the system down](./taking-the-system-down.md). |
 
 ## Cleaning
 

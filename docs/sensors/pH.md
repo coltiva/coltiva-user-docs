@@ -24,6 +24,20 @@ pH sensor cleaning must be done with care. Normally, rinsing it with a commercia
 
 **Avoid** touching the glass electrode of the sensor with any object. Soft objects like cloths and cotton swabs risk transferring static charges to the pH electrode, which will degrade its performance. Other parts of the sensor may be cleaned with a soft cloth. If you do touch the electrode, leave the sensor in storage/cleaning solution, or pH 4 buffer, for at least 24 hours before calibration to dissipate any static charges.
 
+## Storage
+
+The glass of the pH probe must stay wet. Whenever the probe is out of the reservoir for more than an hour or two, and whenever you [take the system down](../taking-the-system-down.md), fill its cap with storage solution and push the cap on. Keep the probe at room temperature.
+
+**Which solution.** Use a pH probe storage solution. These are made of about 3 mol/l potassium chloride (KCl), sometimes with pH 4 buffer added, and are the right choice for anything longer than a few days. The probe's reference electrode is filled with concentrated KCl, so in storage solution it neither gains nor loses electrolyte, its junction stays clear and the glass stays hydrated. The probe then responds as quickly after storage as before.
+
+pH 4 buffer is the usual stand-in. It keeps the glass hydrated too, and because it is acidic little grows in it, so it is fine for days or a few weeks. But it holds far fewer ions than the reference, so over months the reference electrolyte slowly diffuses out into it and the probe becomes slow and drifts. pH 7 buffer is worse on both counts: fewer ions still, and mould grows in it. Never store the probe in pure water (distilled, deionised or reverse osmosis). It pulls ions out of the glass and the reference and can ruin the probe.
+
+:::tip
+Out of storage solution? Dissolve 10 g of KCl in 100 ml of pH 4 buffer. That is what some manufacturers sell as storage solution.
+:::
+
+Replace the solution in the cap once a year, and whenever it looks cloudy. A probe that has dried out is not necessarily lost: soak it in storage solution for 24 hours, then calibrate it. If it is still slow, or the app reports it as worn, replace it.
+
 ## Calibration
 Calibrate at least every 3 months, and whenever you replace the probe, so that the readings stay accurate. You need **pH 4 and pH 7 buffer solutions**.
 

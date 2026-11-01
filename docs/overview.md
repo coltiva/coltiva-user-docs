@@ -11,6 +11,7 @@ Coltiva watches your hydroponic reservoir and keeps it in range. The control uni
 
 - **Setting up for the first time:** read [Safety](./safety.md), then follow [Setting up](/docs/category/setting-up) step by step.
 - **Everyday use:** [Using the app](./using-the-app.md) and [Automation](./automation/how-it-works.md).
+- **Taking a break, moving or storing:** [Taking the system down](./taking-the-system-down.md).
 - **Something is wrong:** [Troubleshooting](/docs/category/troubleshooting).
 - **Details on one part:** [Sensors](/docs/category/sensors), [Pumps](./pumps.mdx) and [Specifications](./specifications.md).
 
