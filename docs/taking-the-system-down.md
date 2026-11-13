@@ -21,7 +21,7 @@ Do this for every pump, dosing (peristaltic) and volume (centrifugal) alike, inc
 2. **Empty the hoses.** Lift the intake out of the water and run the same amount again, so that the pump pushes the water out of the hoses. A volume pump drains by itself when you lift it out. Do not run it dry for more than a moment.
 3. **Dosing pumps: empty the tube in the pump head.** Pull both hoses off the pump and run it by hand for 5 ml. Some water always stays in the tube inside the pump head, and this short run pushes it out. A few seconds without liquid does no harm. Do not run the pump dry for longer than that.
 4. **Dry the hoses** that you are going to use again. Blow them through with compressed air, from a compressor or a can of compressed air. Wipe the pumps dry on the outside. Hoses that are put away damp grow mould inside.
-5. **Dosing pumps: take the squeeze off the tube.** If the pump will be stored for more than a few weeks, open the pump head and lift the tube off the rollers. A tube that is left squeezed flat between the rollers for months takes a permanent set, and the pump doses too little afterwards.
+5. **Dosing pumps: take the squeeze off the tube.** If the pump will be stored for more than a few weeks, twist the transparent cover of the pump head anticlockwise until it pops off, and lift the tube off the rollers. Keep the cover with the pump. A tube that is left squeezed flat between the rollers for months takes a permanent set, and the pump doses too little afterwards.
 6. **Store the pumps** dry, cool and out of direct sunlight, together with their hoses. The limits under [Environmental protection](./specifications.md#environmental-protection) apply in storage too.
 
 ## Sensors
@@ -42,6 +42,6 @@ Mount and connect everything as described under [Setting up](/docs/category/sett
 
 - **pH probe:** if the solution in the cap has dried out, soak the probe in storage solution for 24 hours first. Calibrate it, and replace it if the app reports it as worn.
 - **EC sensor:** calibrate it.
-- **Dosing pumps:** look at the tube in the pump head before you fit the hoses. Replace it if it has stayed flat, or is hard, sticky, cracked or discoloured. A tube that was flushed, dried and freed from the rollers is normally fine to use again.
+- **Dosing pumps:** look at the tube before you put the cover back on and fit the hoses. Replace it if it has stayed flat, or is hard, sticky, cracked or discoloured. A tube that was flushed, dried and freed from the rollers is normally fine to use again.
 - **Every pump:** calibrate it again, whether or not you changed the tube. Tubing changes with age, so the old calibration no longer holds. See [Calibrating a pump](./pumps.mdx#calibrating-a-pump).
 - **Automation:** switch it back on once the probes are under water and calibrated.
